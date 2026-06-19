@@ -16,7 +16,7 @@ I love turning raw data into meaningful insights and creating models that solve 
 - **Visualization:** Matplotlib, Seaborn  
 - **Tools:** Git, Excel, Jupyter Notebook, VS Code, Google Cloud
 - **Operating Systems:** Linux, Windows
-- **Web development** React, Node JS, Fast API
+- **Web development:** React, Node JS, Fast API
 
 ---
 
