@@ -14,6 +14,7 @@ I love transforming raw data into meaningful insights, developing predictive mod
 - Python
 - JavaScript (ES6+)
 - SQL
+- Java
 
 ### 🤖 Artificial Intelligence & Machine Learning
 - Machine Learning
@@ -47,6 +48,7 @@ I love transforming raw data into meaningful insights, developing predictive mod
 #### Database
 - MongoDB
 - SQL
+- PostgreSQL
 
 ### 📊 Data Visualization
 - Matplotlib
